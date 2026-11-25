@@ -57,7 +57,7 @@ loading into DNS lookup, connection, request and response steps.
 
 ## 7. Evidence / files
 - This README contains the concept table and sanitized observations.
-- Command summaries are in [evidence/verification.txt](../evidence/verification.txt).
+
 
 ## 8. Commit details
-- Correction commit: `docs: complete networking mission notes`
+- Correction commit: ` complete networking mission notes`
