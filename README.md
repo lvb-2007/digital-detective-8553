@@ -18,4 +18,15 @@ represent and communicate information.
 - [Mission 7 — Computer networks](mission-07-networking/README.md)
 - [Mission 8 — Final review](mission-08-final-report/README.md)
 
-##
+## My Learning  
+I learned to break down computer activities using IPOS, manage files from the
+Terminal, and describe how an operating system manages processes and storage.
+I also practised number conversions, used Python's built-in conversion
+functions, and learned how Git history, branches, Pull Requests, DNS and
+network protocols support software development and communication.
+
+Each mission has its own README documenting its objective, work, tools,
+understanding and difficulties. Mission work is recorded in separate,
+meaningful Git commits. The `evidence/` folder contains privacy-safe
+verification notes; it does not include usernames, device names, credentials
+or personal network details.
