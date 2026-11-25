@@ -45,9 +45,8 @@ Not applicable.
 ## 7. Evidence / files
 - mission-04-programs/hello.py
 - mission-04-programs/README.md
-- Sanitized run output is recorded in
-  [evidence/verification.txt](../evidence/verification.txt).
+
 
 ## 8. Commit details
-- Correction commit: `fix: repair program example and comparison`
+- Correction commit: `Compare compilers and interpreters`
 - Pushed to GitHub: YES
